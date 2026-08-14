@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**Manteplante/Manteplante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **anthropologist** interested in how **computational methods** can complement traditional social research. I combine **ethnographic** and **inductive** approaches with tools like **Python** and **SQL** to collect, organize, and analyze data.
 
-Here are some ideas to get you started:
+Whether I'm working with **interviews**, **observations**, **text data**, or **digital platforms**, I use programming as a practical research tool while keeping the focus on **context, meaning, and human experience**. 🌍✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔎 What I'm interested in
+- 🕸️ **Data scraping**
+- 🧠 **Text analysis and NLP**
+- 📊 **Data visualization**
+- 🗺️ **Geospatial analysis**
+- 🔁 **Reproducible research**
+- 🧬 **Computational ethnography** — combining computational analysis with inductive interpretation to identify patterns
+- 🎨 A big chunk of **creativity** in research and analysis
+
+### 🛠️ Working style
+I’m especially interested in building workflows that connect **qualitative insight** with **computational analysis** — not to replace interpretation, but to expand it.
+
+I like exploring how code can help surface patterns, organize complexity, and support thoughtful, reflexive research. ✨
+
+---
+
+_Always curious about the space where social theory, digital methods, and creative analysis meet._
