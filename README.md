@@ -2,7 +2,7 @@
 
 I'm an **anthropologist** interested in how **computational methods** can complement traditional social research. I combine **ethnographic** and **inductive** approaches with tools like **Python** and **SQL** to collect, organize, and analyze data.
 
-Whether I'm working with **interviews**, **observations**, **text data**, or **digital platforms**, I use programming as a practical research tool while keeping the focus on **context, meaning, and human experience**. 🌍✨
+Whether I'm working with **interviews**, **surveys**, **text data**, **digital platforms** or **CRM data** I use programming as a practical tool-kit while keeping the focus on **context, meaning, and human experience**. 🌍✨
 
 ### 🔎 What I'm interested in
 - 🕸️ **Data scraping**
