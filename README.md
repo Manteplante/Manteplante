@@ -20,4 +20,4 @@ I like exploring how code can help surface patterns, organize complexity, and su
 
 ---
 
-_Always curious about the space where social theory, digital methods, and creative analysis meet._
+"Deduction begins with a theory and looks for evidence. Induction begins with evidence and builds a theory"
