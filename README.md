@@ -14,10 +14,5 @@ Whether I'm working with **interviews**, **surveys**, **text data**, **digital p
 - 🎨 A big chunk of **creativity** in research and analysis
 
 ### 🛠️ Working style
-I’m especially interested in building workflows that connect **qualitative insight** with **computational analysis** — not to replace interpretation, but to expand it.
 
-I like exploring how code can help surface patterns, organize complexity, and support thoughtful, reflexive research. ✨
-
----
-
-"Deduction begins with a theory and looks for evidence. Induction begins with evidence and builds a theory"
+Deduction begins with a theory and looks for evidence. **Induction** begins with evidence and builds a theory.
