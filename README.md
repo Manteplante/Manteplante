@@ -15,4 +15,4 @@ Whether I'm working with **interviews**, **surveys**, **text data**, **digital p
 
 ### 🛠️ Working style
 
-Deduction begins with a theory and looks for evidence. **Induction** begins with evidence and builds a theory.
+**Induction** begins with evidence and builds a theory.
